@@ -1,4 +1,4 @@
-import { Translations } from "../Translations";
+import { Translations } from "..";
 
 export const ItalianTranslations: Translations = {
     WelcomeName: "Benvenuto su skeld.net",
