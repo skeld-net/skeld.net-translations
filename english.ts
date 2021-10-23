@@ -9,5 +9,5 @@ Current gamemode: @{gamemode[0]}
 
 Subscribe to our Patreon https://www.patreon.com/skeld_net to get a coloured in-game name!`.trim(),
     SetImpostorsInvalidCount:
-        "Invalid player count, please enter a number between 1 to 3",
+        "Invalid player count, please enter a number between 1 and 3",
 };
