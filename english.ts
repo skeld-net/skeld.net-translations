@@ -11,4 +11,6 @@ Subscribe to our Patreon https://www.patreon.com/skeld_net to get a coloured in-
     SetImpostorsInvalidCount:
         "Invalid player count, please enter a number between 1 and 3",
     SetImpostorsSuccess: "Impostor count was set to @{number[0]}",
+    ZombiesIncomingIn: "Zombies are incoming in @{number[0]} seconds",
+    GamemodeChangedTo: "Gamemode changed to @{gamemode[0]}",
 };
