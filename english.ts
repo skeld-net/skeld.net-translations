@@ -22,4 +22,11 @@ Subscribe to our Patreon https://www.patreon.com/skeld_net to get a coloured in-
     StartingIn: "Starting in: ",
     MaxPlayersModeSwitch:
         "The host switched the mode and now this room is full",
+    InvalidMap: "Invalid map. Available maps: ",
+    MapChanged: "The map was set to: ",
+    InvalidColour: "Invalid color. Available colors: ",
+    GamemodeDoesntExist: "Gamemode @{text[0]} does not exist!",
+    InvalidMaxPlayers:
+        "Please pass a valid player count (A number from 4 to @{number[0]}).",
+    MaxPlayersChanged: "Maximum player count is now  @{text[0]}",
 };
