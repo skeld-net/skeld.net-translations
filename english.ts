@@ -13,4 +13,13 @@ Subscribe to our Patreon https://www.patreon.com/skeld_net to get a coloured in-
     SetImpostorsSuccess: "Impostor count was set to @{number[0]}",
     ZombiesIncomingIn: "Zombies are incoming in @{number[0]} seconds",
     GamemodeChangedTo: "Gamemode changed to @{gamemode[0]}",
+    SquidGameLightsInstructions:
+        "Press the meeting button before the timer runs out",
+    SquidGameDalgonaInstructions:
+        "Complete all your tasks before the timer runs out",
+    SquidGameTugOfWarInstructions:
+        "Move in the correct direction to pull the other team",
+    StartingIn: "Starting in: ",
+    MaxPlayersModeSwitch:
+        "The host switched the mode and now this room is full",
 };
