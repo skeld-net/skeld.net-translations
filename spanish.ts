@@ -4,7 +4,7 @@ export const EnglishTranslations: Translations = {
     WelcomeName: "Bienvenido/a a skeld.net",
     WelcomeMessage: `
 El primer servidor personalizado de Among Us del mundo
-Escribe /help (/ayuda) para empezar
+Escribe /help para empezar
 Modo de juego actual: @{gamemode[0]}
 
 ¡Suscríbete a nuestro Patreon https://www.patreon.com/skeld_net para tener un nombre de usuario colorido!`.trim(),
