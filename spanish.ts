@@ -1,6 +1,6 @@
 import { Translations } from "..";
 
-export const EnglishTranslations: Translations = {
+export const SpanishTranslations: Translations = {
     WelcomeName: "Bienvenido/a a skeld.net",
     WelcomeMessage: `
 El primer servidor personalizado de Among Us del mundo
