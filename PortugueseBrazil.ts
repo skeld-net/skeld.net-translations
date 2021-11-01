@@ -1,7 +1,7 @@
 import { Translations } from "..";
 
 export const PortugueseBrazilTranslations: Translations = {
-    WelcomeName: "Bem-vido ao skeld.net",
+    WelcomeName: "Bem-vindo ao skeld.net",
     WelcomeMessage: `
 O primeiro servidor mundial customizado de Among Us
 Digite /help para começar
