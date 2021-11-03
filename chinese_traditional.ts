@@ -19,7 +19,7 @@ export const ChineseSimplifiedTranslations: Translations = {
         "時間到之前要做完所有的任務。",
     SquidGameTugOfWarInstructions:
         "往對的方向走，拉敵對的人。",
-    StartingIn: "在@{startingin[0]}秒内開始。",
+    StartingIn: "在@{number[0]}秒内開始。",
     MaxPlayersModeSwitch:
         "主持人改了游戲模式，這間休息室現在滿了。",
     InvalidMap: "這個地圖不存在。你可以選：",
