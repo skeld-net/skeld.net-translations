@@ -3,7 +3,7 @@ import { Translations } from "..";
 export const PortugueseBrazilTranslations: Translations = {
     WelcomeName: "Bem-vindo ao skeld.net",
     WelcomeMessage: `
-O primeiro servidor customizado de Among Us no mundo.
+O primeiro servidor customizado de Among Us do mundo.
 Digite /help para começar
 Modo de jogo atual: @{gamemode[0]}
 
