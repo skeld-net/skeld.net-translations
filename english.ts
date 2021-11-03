@@ -28,5 +28,5 @@ Subscribe to our Patreon https://www.patreon.com/skeld_net to get a coloured in-
     GamemodeDoesntExist: "Gamemode @{text[0]} does not exist!",
     InvalidMaxPlayers:
         "Please pass a valid player count (A number from 4 to @{number[0]}).",
-    MaxPlayersChanged: "Maximum player count is now  @{text[0]}",
+    MaxPlayersChanged: "Maximum player count is now @{text[0]}",
 };
