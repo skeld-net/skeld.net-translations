@@ -29,4 +29,10 @@ Inscreva-se ao nosso Patreon https://www.patreon.com/skeld_net para ganhar um no
     InvalidMaxPlayers:
         "Por favor passe uma quantidade valida de jogadores (Um número de 4 à @{number[0]}).",
     MaxPlayersChanged: "O número máximo de jogadores agora é @{text[0]}",
+    QuickChatWarning: `
+Você tem o bate-papo desativado.
+
+Ative o bate-papo livre em suas configurações para mandar comandos aqui.
+
+Menu principal > Engrenagem de menu > Dados > Tipo de bate-papo`.trim(),
 };

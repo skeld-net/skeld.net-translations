@@ -29,4 +29,10 @@ Subscribe to our Patreon https://www.patreon.com/skeld_net to get a coloured in-
     InvalidMaxPlayers:
         "Please pass a valid player count (A number from 4 to @{number[0]}).",
     MaxPlayersChanged: "Maximum player count is now @{text[0]}",
+    QuickChatWarning: `
+You currently have chat disabled.
+
+Please enable free chat in your settings to type commands here.
+
+Main Menu > Settings Cog > Data > Chat Type`.trim(),
 };
