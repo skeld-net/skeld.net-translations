@@ -38,5 +38,11 @@ export const GermanTranslations: Translations = {
     InvalidMaxPlayers:
         "Bitte gebe eine gültige Spieleranzahl ein (eine Zahl von 4 bis @{number[0]})",
     MaxPlayersChanged:
-        "Maximale Spieleranzahl ist nun @{text[0]}"
+        "Maximale Spieleranzahl ist nun @{text[0]}",
+    QuickChatWarning: `
+    Zurzeit haben Sie den Chat ausgeschaltet.
+    
+    Bitte aktivieren Sie den freien Chat in Ihren Einstellungen, um Befehle zu tippen.
+    
+    Hauptmenü > Zahnrad > Daten > Chat-Typ`.trim(),
 };
